@@ -1,2 +1,11 @@
-# Journal
-A futuristic personal journal web app with auto-updating date headers, timestamped entries, and tag support (i/, t/, j/). Entries are saved locally in your browser. Includes dark mode, typing animation, and a clean, minimal interface—perfect for quick thoughts, ideas, and daily journaling.
+# Personal Journal Web App
+
+A futuristic personal journal built with HTML and JavaScript.
+
+- Auto-updating date headers
+- Timestamped entries on Enter
+- Supports `r/`, `t/`, `j/` tags for remainder, thoughts, and journaling
+- Dark mode UI with a typing animation
+- LocalStorage-based saving (entries stay in your browser)
+
+> Just open `journal.html` in any modern browser and start writing!
